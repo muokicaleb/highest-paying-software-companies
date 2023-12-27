@@ -31,18 +31,18 @@ See the small gray text? That's where it comes from.
 430 | opensea | https://jobs.ashbyhq.com/OpenSea | https://levels.fyi/company/opensea/salaries/software-engineer
 425 | airbnb | https://careers.airbnb.com/ | https://levels.fyi/company/airbnb/salaries/software-engineer
 422 | snowflake | https://careers.snowflake.com/us/en/search-results | https://levels.fyi/company/snowflake/salaries/software-engineer
-413 | cit | | https://levels.fyi/company/cit/salaries/software-engineer
-413 | citadel | | https://levels.fyi/company/citadel/salaries/software-engineer
-405 | cloudkitchens | | https://levels.fyi/company/cloudkitchens/salaries/software-engineer
-401 | rippling | | https://levels.fyi/company/rippling/salaries/software-engineer
-400 | arrowstreet-capital | | https://levels.fyi/company/arrowstreet-capital/salaries/software-engineer  
-400 | jump-trading | | https://levels.fyi/company/jump-trading/salaries/software-engineer
-390 | old-mission | | https://levels.fyi/company/old-mission/salaries/software-engineer
-385 | titan | | https://levels.fyi/company/titan/salaries/software-engineer
-379 | coinbase | | https://levels.fyi/company/coinbase/salaries/software-engineer
-379 | chronosphere | | https://levels.fyi/company/chronosphere/salaries/software-engineer
-375 | instacart | | https://levels.fyi/company/instacart/salaries/software-engineer
-365 | cruise | | https://levels.fyi/company/cruise/salaries/software-engineer
+413 | cit | https://jobs.firstcitizens.com/| https://levels.fyi/company/cit/salaries/software-engineer
+413 | citadel | https://www.citadel.com/careers/ | https://levels.fyi/company/citadel/salaries/software-engineer
+405 | cloudkitchens |https://cloudkitchens.com/careers/ | https://levels.fyi/company/cloudkitchens/salaries/software-engineer
+401 | rippling |https://www.rippling.com/en-GB/careers/open-roles | https://levels.fyi/company/rippling/salaries/software-engineer
+400 | arrowstreet-capital | https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet | https://levels.fyi/company/arrowstreet-capital/salaries/software-engineer  
+400 | jump-trading | https://www.jumptrading.com/careers/ | https://levels.fyi/company/jump-trading/salaries/software-engineer
+390 | old-mission | https://www.oldmissioncapital.com/careers/ | https://levels.fyi/company/old-mission/salaries/software-engineer
+385 | titan | https://www.titan.com/careers#openings | https://levels.fyi/company/titan/salaries/software-engineer
+379 | coinbase | https://www.coinbase.com/en-gb/careers/positions | https://levels.fyi/company/coinbase/salaries/software-engineer
+379 | chronosphere | https://chronosphere.io/careers/#open-roles | https://levels.fyi/company/chronosphere/salaries/software-engineer
+375 | instacart | https://instacart.careers/current-openings/ | https://levels.fyi/company/instacart/salaries/software-engineer
+365 | cruise | https://getcruise.com/careers/jobs/#engineering | https://levels.fyi/company/cruise/salaries/software-engineer
 360 | roblox | | https://levels.fyi/company/roblox/salaries/software-engineer
 360 | waymo | | https://levels.fyi/company/waymo/salaries/software-engineer
 360 | roku | | https://levels.fyi/company/roku/salaries/software-engineer
