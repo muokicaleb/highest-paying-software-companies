@@ -43,7 +43,7 @@ See the small gray text? That's where it comes from.
 379 | chronosphere | https://chronosphere.io/careers/#open-roles | https://levels.fyi/company/chronosphere/salaries/software-engineer
 375 | instacart | https://instacart.careers/current-openings/ | https://levels.fyi/company/instacart/salaries/software-engineer
 365 | cruise | https://getcruise.com/careers/jobs/#engineering | https://levels.fyi/company/cruise/salaries/software-engineer
-360 | roblox | | https://levels.fyi/company/roblox/salaries/software-engineer
+360 | roblox | https://careers.roblox.com/jobs | https://levels.fyi/company/roblox/salaries/software-engineer
 360 | waymo | | https://levels.fyi/company/waymo/salaries/software-engineer
 360 | roku | | https://levels.fyi/company/roku/salaries/software-engineer
 356 | discord | | https://levels.fyi/company/discord/salaries/software-engineer
