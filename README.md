@@ -44,37 +44,37 @@ See the small gray text? That's where it comes from.
 375 | instacart | https://instacart.careers/current-openings/ | https://levels.fyi/company/instacart/salaries/software-engineer
 365 | cruise | https://getcruise.com/careers/jobs/#engineering | https://levels.fyi/company/cruise/salaries/software-engineer
 360 | roblox | https://careers.roblox.com/jobs | https://levels.fyi/company/roblox/salaries/software-engineer
-360 | waymo | | https://levels.fyi/company/waymo/salaries/software-engineer
-360 | roku | | https://levels.fyi/company/roku/salaries/software-engineer
-356 | discord | | https://levels.fyi/company/discord/salaries/software-engineer
-353 | toyota-research-institute | | https://levels.fyi/company/toyota-research-institute/salaries/software-engineer
-352 | hightouch | | https://levels.fyi/company/hightouch/salaries/software-engineer
-350 | brex | | https://levels.fyi/company/brex/salaries/software-engineer
+360 | waymo | https://waymo.com/careers/#software-engineering | https://levels.fyi/company/waymo/salaries/software-engineer
+360 | roku | https://www.weareroku.com/jobs/search | https://levels.fyi/company/roku/salaries/software-engineer
+356 | discord | https://discord.com/careers | https://levels.fyi/company/discord/salaries/software-engineer
+353 | toyota-research-institute | https://www.tri.global/careers#open-positions | https://levels.fyi/company/toyota-research-institute/salaries/software-engineer
+352 | hightouch |https://hightouch.com/careers | https://levels.fyi/company/hightouch/salaries/software-engineer
+350 | brex | https://www.brex.com/careers | https://levels.fyi/company/brex/salaries/software-engineer
 350 | applovin | | https://levels.fyi/company/applovin/salaries/software-engineer
-350 | jane | | https://levels.fyi/company/jane/salaries/software-engineer
-350 | jane-street | | https://levels.fyi/company/jane-street/salaries/software-engineer
-350 | lacework | | https://levels.fyi/company/lacework/salaries/software-engineer
-349 | grammarly | | https://levels.fyi/company/grammarly/salaries/software-engineer
-347 | facebook | | https://levels.fyi/company/facebook/salaries/software-engineer
-340 | strivr | | https://levels.fyi/company/strivr/salaries/software-engineer
-340 | amplitude | | https://levels.fyi/company/amplitude/salaries/software-engineer
-339 | newsbreak | | https://levels.fyi/company/newsbreak/salaries/software-engineer
-327 | two-sigma | | https://levels.fyi/company/two-sigma/salaries/software-engineer
-322 | airtable | | https://levels.fyi/company/airtable/salaries/software-engineer
-322 | striveworks | | https://levels.fyi/company/striveworks/salaries/software-engineer
-322 | credit-karma | | https://levels.fyi/company/credit-karma/salaries/software-engineer
-320 | doordash | | https://levels.fyi/company/doordash/salaries/software-engineer
-317 | luminar-technologies | | https://levels.fyi/company/luminar-technologies/salaries/software-engineer
-315 | thumbtack | | https://levels.fyi/company/thumbtack/salaries/software-engineer
-315 | chime | | https://levels.fyi/company/chime/salaries/software-engineer
-315 | nuro | | https://levels.fyi/company/nuro/salaries/software-engineer
-315 | plaid | | https://levels.fyi/company/plaid/salaries/software-engineer
-315 | samsara | | https://levels.fyi/company/samsara/salaries/software-engineer
-312 | hallow | | https://levels.fyi/company/hallow/salaries/software-engineer
-305 | polygon-technology | | https://levels.fyi/company/polygon-technology/salaries/software-engineer
-305 | notion | | https://levels.fyi/company/notion/salaries/software-engineer
-300 | broadcom | | https://levels.fyi/company/broadcom/salaries/software-engineer
-300 | trumid | | https://levels.fyi/company/trumid/salaries/software-engineer
+350 | jane | https://jane.com/content/careers | https://levels.fyi/company/jane/salaries/software-engineer
+350 | jane-street | https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=all-locations | https://levels.fyi/company/jane-street/salaries/software-engineer
+350 | lacework | https://www.lacework.com/careers/job-openings/ | https://levels.fyi/company/lacework/salaries/software-engineer
+349 | grammarly | https://www.grammarly.com/jobs/openings | https://levels.fyi/company/grammarly/salaries/software-engineer
+347 | facebook | https://www.metacareers.com/jobs | https://levels.fyi/company/facebook/salaries/software-engineer
+340 | strivr | https://www.strivr.com/company/careers/ | https://levels.fyi/company/strivr/salaries/software-engineer
+340 | amplitude | https://boards.greenhouse.io/amplitude | https://levels.fyi/company/amplitude/salaries/software-engineer
+339 | newsbreak | https://boards.greenhouse.io/newsbreak | https://levels.fyi/company/newsbreak/salaries/software-engineer
+327 | two-sigma | https://careers.twosigma.com/careers/ | https://levels.fyi/company/two-sigma/salaries/software-engineer
+322 | airtable | https://airtable.com/careers | https://levels.fyi/company/airtable/salaries/software-engineer
+322 | striveworks | https://www.striveworks.com/careers#career-openings | https://levels.fyi/company/striveworks/salaries/software-engineer
+322 | credit-karma | https://www.creditkarma.com/careers/jobs | https://levels.fyi/company/credit-karma/salaries/software-engineer
+320 | doordash | https://careers.doordash.com/job-search | https://levels.fyi/company/doordash/salaries/software-engineer
+317 | luminar-technologies | https://boards.greenhouse.io/luminar | https://levels.fyi/company/luminar-technologies/salaries/software-engineer
+315 | thumbtack | https://careers.thumbtack.com/jobs | https://levels.fyi/company/thumbtack/salaries/software-engineer
+315 | chime | https://careers.chime.com/ | https://levels.fyi/company/chime/salaries/software-engineer
+315 | nuro | https://www.nuro.ai/careers | https://levels.fyi/company/nuro/salaries/software-engineer
+315 | plaid | https://plaid.com/careers/openings/all-departments/all-locations/ | https://levels.fyi/company/plaid/salaries/software-engineer
+315 | samsara | https://www.samsara.com/company/careers/roles | https://levels.fyi/company/samsara/salaries/software-engineer
+312 | hallow | https://jobs.lever.co/hallow | https://levels.fyi/company/hallow/salaries/software-engineer
+305 | polygon-technology | https://polygon.technology/careers#open-roles | https://levels.fyi/company/polygon-technology/salaries/software-engineer
+305 | notion | https://www.notion.so/careers | https://levels.fyi/company/notion/salaries/software-engineer
+300 | broadcom | https://broadcom.wd1.myworkdayjobs.com/External_Career | https://levels.fyi/company/broadcom/salaries/software-engineer
+300 | trumid | https://www.trumid.com/careers/ | https://levels.fyi/company/trumid/salaries/software-engineer
 300 | five-rings | | https://levels.fyi/company/five-rings/salaries/software-engineer
 300 | hbo | | https://levels.fyi/company/hbo/salaries/software-engineer
 295 | dropbox | | https://levels.fyi/company/dropbox/salaries/software-engineer
