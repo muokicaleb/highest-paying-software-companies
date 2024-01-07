@@ -75,23 +75,23 @@ See the small gray text? That's where it comes from.
 305 | notion | https://www.notion.so/careers | https://levels.fyi/company/notion/salaries/software-engineer
 300 | broadcom | https://broadcom.wd1.myworkdayjobs.com/External_Career | https://levels.fyi/company/broadcom/salaries/software-engineer
 300 | trumid | https://www.trumid.com/careers/ | https://levels.fyi/company/trumid/salaries/software-engineer
-300 | five-rings | | https://levels.fyi/company/five-rings/salaries/software-engineer
-300 | hbo | | https://levels.fyi/company/hbo/salaries/software-engineer
-295 | dropbox | | https://levels.fyi/company/dropbox/salaries/software-engineer
-295 | drop | | https://levels.fyi/company/drop/salaries/software-engineer
-293 | hertz | | https://levels.fyi/company/hertz/salaries/software-engineer
-293 | ponyai | | https://levels.fyi/company/ponyai/salaries/software-engineer
-291 | apple | | https://levels.fyi/company/apple/salaries/software-engineer
-290 | confluent | | https://levels.fyi/company/confluent/salaries/software-engineer
-290 | lyft | | https://levels.fyi/company/lyft/salaries/software-engineer
-290 | bytedance | | https://levels.fyi/company/bytedance/salaries/software-engineer
-289 | the-voleon-group | | https://levels.fyi/company/the-voleon-group/salaries/software-engineer
-288 | tanium | | https://levels.fyi/company/tanium/salaries/software-engineer
-285 | opendoor | | https://levels.fyi/company/opendoor/salaries/software-engineer
-285 | google | | https://levels.fyi/company/google/salaries/software-engineer
-283 | etsy | | https://levels.fyi/company/etsy/salaries/software-engineer
-282 | oscar-health | | https://levels.fyi/company/oscar-health/salaries/software-engineer
-282 | reddit | | https://levels.fyi/company/reddit/salaries/software-engineer
+300 | five-rings |https://fiverings.com/positions/ | https://levels.fyi/company/five-rings/salaries/software-engineer
+300 | hbo | https://careers.wbd.com/global/en/search-results | https://levels.fyi/company/hbo/salaries/software-engineer
+295 | dropbox | https://jobs.dropbox.com/all-jobs | https://levels.fyi/company/dropbox/salaries/software-engineer
+295 | drop | https://jobs.lever.co/joindrop | https://levels.fyi/company/drop/salaries/software-engineer
+293 | hertz | https://jobs.hertzcareers.com/#en/sites/CX_1/requisitions?mode=location | https://levels.fyi/company/hertz/salaries/software-engineer
+293 | ponyai | https://apply.workable.com/pony-dot-ai/ | https://levels.fyi/company/ponyai/salaries/software-engineer
+291 | apple | https://jobs.apple.com/en-us/search | https://levels.fyi/company/apple/salaries/software-engineer
+290 | confluent | https://careers.confluent.io/search/jobs | https://levels.fyi/company/confluent/salaries/software-engineer
+290 | lyft | https://www.lyft.com/careers | https://levels.fyi/company/lyft/salaries/software-engineer
+290 | bytedance | https://jobs.bytedance.com/en/position?keywords= | https://levels.fyi/company/bytedance/salaries/software-engineer
+289 | the-voleon-group | https://voleon.com/index.html%3Fp=124.html | https://levels.fyi/company/the-voleon-group/salaries/software-engineer
+288 | tanium | https://www.tanium.com/careers/#jobs | https://levels.fyi/company/tanium/salaries/software-engineer
+285 | opendoor | https://www.opendoor.com/w/careers/open-positions | https://levels.fyi/company/opendoor/salaries/software-engineer
+285 | google | https://www.google.com/about/careers/applications/jobs/results/ | https://levels.fyi/company/google/salaries/software-engineer
+283 | etsy | https://careers.etsy.com/jobs/search | https://levels.fyi/company/etsy/salaries/software-engineer
+282 | oscar-health | https://www.hioscar.com/careers/search | https://levels.fyi/company/oscar-health/salaries/software-engineer
+282 | reddit | https://www.redditinc.com/careers/#job-info | https://levels.fyi/company/reddit/salaries/software-engineer
 282 | oscar | | https://levels.fyi/company/oscar/salaries/software-engineer
 280 | color | | https://levels.fyi/company/color/salaries/software-engineer
 280 | affirm | | https://levels.fyi/company/affirm/salaries/software-engineer
