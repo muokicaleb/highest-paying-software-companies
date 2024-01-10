@@ -97,7 +97,7 @@ See the small gray text? That's where it comes from.
 280 | affirm | https://www.affirm.com/careers#openings | https://levels.fyi/company/affirm/salaries/software-engineer
 280 | bridgewater-associates | https://www.bridgewater.com/working-at-bridgewater/job-openings | https://levels.fyi/company/bridgewater-associates/salaries/software-engineer
 280 | robinhood | https://careers.robinhood.com/ | https://levels.fyi/company/robinhood/salaries/software-engineer
-280 | pure-storage | | https://levels.fyi/company/pure-storage/salaries/software-engineer
+280 | pure-storage | https://www.purestorage.com/company/careers/opportunities.html | https://levels.fyi/company/pure-storage/salaries/software-engineer
 280 | palo-alto-networks | | https://levels.fyi/company/palo-alto-networks/salaries/software-engineer
 278 | linkedin | | https://levels.fyi/company/linkedin/salaries/software-engineer
 277 | hopper | | https://levels.fyi/company/hopper/salaries/software-engineer
