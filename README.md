@@ -92,11 +92,11 @@ See the small gray text? That's where it comes from.
 283 | etsy | https://careers.etsy.com/jobs/search | https://levels.fyi/company/etsy/salaries/software-engineer
 282 | oscar-health | https://www.hioscar.com/careers/search | https://levels.fyi/company/oscar-health/salaries/software-engineer
 282 | reddit | https://www.redditinc.com/careers/#job-info | https://levels.fyi/company/reddit/salaries/software-engineer
-282 | oscar | | https://levels.fyi/company/oscar/salaries/software-engineer
-280 | color | | https://levels.fyi/company/color/salaries/software-engineer
-280 | affirm | | https://levels.fyi/company/affirm/salaries/software-engineer
-280 | bridgewater-associates | | https://levels.fyi/company/bridgewater-associates/salaries/software-engineer
-280 | robinhood | | https://levels.fyi/company/robinhood/salaries/software-engineer
+282 | oscar | https://www.oscar-recruit.com/join-us | https://levels.fyi/company/oscar/salaries/software-engineer
+280 | color | https://www.color.com/careers | https://levels.fyi/company/color/salaries/software-engineer
+280 | affirm | https://www.affirm.com/careers#openings | https://levels.fyi/company/affirm/salaries/software-engineer
+280 | bridgewater-associates | https://www.bridgewater.com/working-at-bridgewater/job-openings | https://levels.fyi/company/bridgewater-associates/salaries/software-engineer
+280 | robinhood | https://careers.robinhood.com/ | https://levels.fyi/company/robinhood/salaries/software-engineer
 280 | pure-storage | | https://levels.fyi/company/pure-storage/salaries/software-engineer
 280 | palo-alto-networks | | https://levels.fyi/company/palo-alto-networks/salaries/software-engineer
 278 | linkedin | | https://levels.fyi/company/linkedin/salaries/software-engineer
